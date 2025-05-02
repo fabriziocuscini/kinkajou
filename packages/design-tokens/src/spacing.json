@@ -1,0 +1,98 @@
+{
+  "spacing": {
+    "1": {
+      "$type": "spacing",
+      "$value": "{baseUnit} * {scaling} * 1"
+    },
+    "2": {
+      "$type": "spacing",
+      "$value": "{baseUnit} * {scaling} * 2"
+    },
+    "3": {
+      "$type": "spacing",
+      "$value": "{baseUnit} * {scaling} * 3"
+    },
+    "4": {
+      "$type": "spacing",
+      "$value": "{baseUnit} * {scaling} * 4"
+    },
+    "5": {
+      "$type": "spacing",
+      "$value": "{baseUnit} * {scaling} * 5"
+    },
+    "6": {
+      "$type": "spacing",
+      "$value": "{baseUnit} * {scaling} * 6"
+    },
+    "7": {
+      "$type": "spacing",
+      "$value": "{baseUnit} * {scaling} * 7"
+    },
+    "8": {
+      "$type": "spacing",
+      "$value": "{baseUnit} * {scaling} * 8"
+    },
+    "9": {
+      "$type": "spacing",
+      "$value": "{baseUnit} * {scaling} * 9"
+    },
+    "10": {
+      "$type": "spacing",
+      "$value": "{baseUnit} * {scaling} * 10"
+    },
+    "12": {
+      "$type": "spacing",
+      "$value": "{baseUnit} * {scaling} * 12"
+    },
+    "14": {
+      "$type": "spacing",
+      "$value": "{baseUnit} * {scaling} * 14"
+    },
+    "16": {
+      "$type": "spacing",
+      "$value": "{baseUnit} * {scaling} * 16"
+    },
+    "18": {
+      "$type": "spacing",
+      "$value": "{baseUnit} * {scaling} * 18"
+    },
+    "20": {
+      "$type": "spacing",
+      "$value": "{baseUnit} * {scaling} * 20"
+    },
+    "half": {
+      "$type": "spacing",
+      "$value": "{baseUnit} * {scaling} * 0.5"
+    }
+  },
+  "baseUnit": {
+    "$type": "number",
+    "$value": "4"
+  },
+  "scaling": {
+    "$type": "number",
+    "$value": "{factor.100%}"
+  },
+  "gap": {
+    "xs": {
+      "$type": "spacing",
+      "$value": "{spacing.1}"
+    },
+    "sm": {
+      "$type": "spacing",
+      "$value": "{spacing.2}"
+    },
+    "md": {
+      "$type": "spacing",
+      "$value": "{spacing.4}"
+    },
+    "lg": {
+      "$type": "spacing",
+      "$value": "{spacing.6}"
+    },
+    "xl": {
+      "$type": "spacing",
+      "$value": "{spacing.8}"
+    }
+  }
+}

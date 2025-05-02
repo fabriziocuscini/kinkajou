@@ -1,0 +1,28 @@
+{
+  "breakpoints": {
+    "xs": {
+      "$type": "number",
+      "$value": "480"
+    },
+    "sm": {
+      "$type": "number",
+      "$value": "768"
+    },
+    "md": {
+      "$type": "number",
+      "$value": "1024"
+    },
+    "lg": {
+      "$type": "number",
+      "$value": "1280"
+    },
+    "xl": {
+      "$type": "number",
+      "$value": "1650"
+    },
+    "xxl": {
+      "$type": "number",
+      "$value": "1920"
+    }
+  }
+}

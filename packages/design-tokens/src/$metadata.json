@@ -1,0 +1,11 @@
+{
+  "tokenSetOrder": [
+    "colors",
+    "colorSchemes/light",
+    "colorSchemes/dark",
+    "typography",
+    "scaling",
+    "spacing",
+    "breakpoints"
+  ]
+}
